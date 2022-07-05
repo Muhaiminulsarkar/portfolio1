@@ -62,5 +62,10 @@ h1 {
     margin: 20px;
     text-align: center;
     border-left: 6px solid orange;
-    back border-radius: 5px;
+    border-radius: 5px;
+}
+
+.footer {
+    text-align: center;
+    color: gray;
 }
